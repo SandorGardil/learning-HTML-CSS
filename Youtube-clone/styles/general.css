@@ -1,0 +1,16 @@
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+body {
+    /* This style will be inheirted */
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-bottom: 3000px;
+    padding-right: 24px;
+    background-color: rgb(250, 249, 249);
+    font-family: Roboto, Aerial;
+}
